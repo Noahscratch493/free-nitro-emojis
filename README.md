@@ -8,7 +8,11 @@
 
 
 ### Have you Ever wanted to use nitro emojis without paying money? 
-### Try Free Nitro Emojis, Just paste the link and it'll show, just like Tenor Gifs on Discord
+### Try Free Nitro Emojis, It is All Free!
+
+## How to Use
+
+1. Paste one of these links in your server
 
 ## Party Blob 🎉
 <img src="https://noahscratch493.github.io/free-nitro-emojis/emojis/partyblob.gif" alt="Party Blob" width="48" height="48">  
@@ -21,3 +25,6 @@ View Blushing Blob - https://noahscratch493.github.io/free-nitro-emojis/emojis/B
 ## Sad Blob 😢
 <img src="https://noahscratch493.github.io/free-nitro-emojis/emojis/sadblob.png" alt="Sad Blob" width="72" height="72">  
 View Sad Blob - https://noahscratch493.github.io/free-nitro-emojis/emojis/sadblob.png
+
+2. Hover your Mouse over it and press the Star.
+3. Go to Any Discord Server where you can send links, press GIF and then go to GIFs, Favourites, and Click the GIF. 
