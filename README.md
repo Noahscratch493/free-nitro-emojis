@@ -16,11 +16,11 @@ Just Copy one of these links and done!
 
 ## Party Blob 🎉
 <img src="https://noahscratch493.github.io/free-nitro-emojis/emojis/partyblob.png" alt="Party Blob" width="48" height="48">  
-View Party Blob - https://noahscratch493.github.io/free-nitro-emojis/emojis/partyblob.png
+View Party Blob - https://noahscratch493.github.io/free-nitro-emojis/emojis/partyblob.gif
 
 ## Blushing Blob 😊
-<img src="https://noahscratch493.github.io/free-nitro-emojis/emojis/BlushingBlob.png" alt="Blushing Blob" width="48">  
-View Blushing Blob - https://noahscratch493.github.io/free-nitro-emojis/emojis/BlushingBlob.png
+<img src="https://noahscratch493.github.io/free-nitro-emojis/emojis/BlushingBlob.gif" alt="Blushing Blob" width="48">  
+View Blushing Blob - https://noahscratch493.github.io/free-nitro-emojis/emojis/BlushingBlob.gif
 
 ## Sad Blob 😢
 <img src="https://noahscratch493.github.io/free-nitro-emojis/emojis/sadblob.png" alt="Sad Blob" width="72" height="72">  
