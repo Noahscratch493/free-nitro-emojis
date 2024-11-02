@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Free Nitro Emojis</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            color: #4CAF50;
+        }
+        p {
+            font-size: 18px;
+            margin: 20px 0;
+        }
+        .examples {
+            margin: 20px 0;
+            padding: 10px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .example {
+            margin: 5px 0;
+            font-weight: bold;
+        }
+        .emoji {
+            display: inline-block;
+            margin-top: 10px;
+        }
+        img {
+            width: 48px; /* Adjust the size as needed */
+            height: 48px;
+        }
+        a {
+            text-decoration: none;
+            color: #2196F3;
+        }
+    </style>
+    <script>
+        // Function to check URL parameters and redirect if necessary
+        function redirectIfPartyBlob() {
+            const urlParams = new URLSearchParams(window.location.search);
+            if (urlParams.get('emoji') === 'partyblob') {
+                // Redirect to the desired page
+                window.location.href = 'https://example.com/your-target-page'; // Replace with your target URL
+            }
+        }
+
+        // Call the function on page load
+        window.onload = redirectIfPartyBlob;
+    </script>
+</head>
+<body>
+    <h1>Free Nitro Emojis</h1>
+    <p>Use <code>?emoji=</code> to use the emoji.</p>
+    
+    <div class="examples">
+        <p class="example">Examples:</p>
+        <p><code>?emoji=partyblob</code> - Party Blob Emoji</p>
+        <div class="emoji">
+            <img src="https://cdn.discordapp.com/emojis/854800429623017513.gif?size=48&quality=lossless&name=blobparty" alt="Party Blob Emoji">
+            <p><code>https://cdn.discordapp.com/emojis/854800429623017513.gif?size=48&quality=lossless&name=blobparty</code></p>
+        </div>
+        <p><code>?emoji=smile</code> - Smile Emoji</p>
+        <p><code>?emoji=sad</code> - Sad Emoji</p>
+        <p><code>?emoji=heart</code> - Heart Emoji</p>
+    </div>
+
+    <p>If you're not redirected automatically, please follow the link below:</p>
+    <a href="https://example.com/your-target-page">Go to your target page</a> <!-- Replace with your target URL -->
+</body>
+</html>
