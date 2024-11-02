@@ -12,12 +12,12 @@
 
 ## Party Blob 🎉
 <img src="https://noahscratch493.github.io/free-nitro-emojis/emojis/partyblob.gif" alt="Party Blob" width="48" height="48">  
-View Party Blob - https://noahscratch493.github.io/free-nitro-emojis/emojis/partyblob.gif)
+View Party Blob - https://noahscratch493.github.io/free-nitro-emojis/emojis/partyblob.gif
 
 ## Blushing Blob 😊
 <img src="https://noahscratch493.github.io/free-nitro-emojis/emojis/BlushingBlob.gif" alt="Blushing Blob" width="48">  
-View Blushing Blob - https://noahscratch493.github.io/free-nitro-emojis/emojis/BlushingBlob.gif)
+View Blushing Blob - https://noahscratch493.github.io/free-nitro-emojis/emojis/BlushingBlob.gif
 
 ## Sad Blob 😢
 <img src="https://noahscratch493.github.io/free-nitro-emojis/emojis/sadblob.png" alt="Sad Blob" width="72" height="72">  
-View Sad Blob - https://noahscratch493.github.io/free-nitro-emojis/emojis/sadblob.png)
+View Sad Blob - https://noahscratch493.github.io/free-nitro-emojis/emojis/sadblob.png
